@@ -1,0 +1,16 @@
+body{
+    background-color: paleturquoise;
+    text-align: center;
+}
+h1
+{
+	color: orange; 
+	font-size: 40px;
+}
+
+
+canvas{
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+    }
